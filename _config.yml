@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yongqing Guo"
-  pronouns         : # example: "she/her"  
-  bio              : "A Lecturer at Marine Science and Technology College Zhejiang Ocean University at Zhoushan China"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : # His"  
+  bio              : "Lecturer majoring in Physical Oceanography, Marine Science and Technology College, Zhejiang Ocean University"
+  location         : "Zhoushan, Zhejiang Province, China"
+  employer         : "Zhejiang Ocean University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "guoyq_pi@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
