@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yongqing Guo（郭永青） "
+title                    : "Yongqing Guo's Academic Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yongqing Guo"
+  name             : "Yongqing Guo（郭永青）"
   pronouns         : # His"  
   bio              : "Lecturer majoring in Physical Oceanography, Marine Science and Technology College, Zhejiang Ocean University"
   location         : "Zhoushan, Zhejiang Province, China"
