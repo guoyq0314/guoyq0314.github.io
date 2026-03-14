@@ -2,7 +2,6 @@
 
 **Courses Taught**
 - *Ocean Circulation* — Undergraduate core course
-- *Marine Element Analysis Lab* — Undergraduate experiment course
 - *Physical Oceanography* — Graduate core course
 
 **Research Grants (PI)**
