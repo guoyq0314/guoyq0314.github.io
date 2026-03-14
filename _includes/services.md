@@ -26,4 +26,15 @@
 - *Journal of Geophysical Research: Oceans*
 - *Journal of Marine Systems*
 - *Acta Oceanologica Sinica*
-- Journal of Sea Research
+- *Journal of Sea Research*
+
+## Supervised Students
+
+**Alumni**
+- Lanyu Jia (贾岚钰)
+- Xinyu Wang (王欣玉)
+
+**Current Students**
+- Zhongyu Xu (徐忠宇)
+- Shuang Guo (郭爽)
+- Zhenyang Guo (郭振扬)
