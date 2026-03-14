@@ -16,9 +16,9 @@ I received my Ph.D. in Physical Oceanography from **Ocean University of China** 
 - **Mesoscale Eddies:** statistical characteristics and three-dimensional structures of eddies, eddy kinetic energy variability
 - **Ocean Heat Content:** variability and trend of ocean heat content, isopycnal ocean heat content
 - **Climate Variability:** Central Pacific El Niño
-## News
 
-#- **[Jan. 2026]** Promoted to **Associate Professor** at Zhejiang Ocean University.
+## News
+- **[Jan. 2026]** Promoted to **Associate Professor** at Zhejiang Ocean University.
 
 {% include_relative _includes/publications.md %}
 
