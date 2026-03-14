@@ -1,6 +1,6 @@
 main:
 
-  - title: "Statistical Characteristics and Three-Dimensional Structure of Mesoscale Eddies South of Japan (in Chinese)"
+  - title: "Statistical Characteristics and Three-Dimensional Structure of Mesoscale Eddies in the Sea South of Japan (in Chinese)"
     authors: "Xinyu Wang, <strong>Yongqing Guo*</strong>"
     conference_short: Adv. Mar. Sci.
     conference: "Advances in Marine Science (海洋科学进展), 2026. <em>(in press)</em>"
@@ -31,27 +31,33 @@ main:
     notes: Corresponding Author
     
   - title: "Could CMIP6 Climate Models Reproduce the Early-2000s Global Warming Slowdown?"
-    authors: "Meng Wei, Qi Shu, Zhenya Song, Ying Song, Xiaobing Yang, <strong>Yongqing Guo</strong>, Xueming Li, Fangli Qiao*"
+    authors: "Meng Wei, Qi Shu, Zhenya Song, Yajuan Song, Xiaodan Yang, <strong>Yongqing Guo</strong>, Xinfang Li, Fangli Qiao*"
     conference_short: Sci. China
     conference: "Science China Earth Sciences, 64(6), 853–865, 2021."
 
   - title: "Quantifying the Importance of Interannual, Interdecadal and Multidecadal Climate Natural Variabilities in the Modulation of Global Warming Rates"
-    authors: "Meng Wei, Fangli Qiao*, <strong>Yongqing Guo</strong>, Jie Deng, Zhenya Song, Qi Shu, Xiaobing Yang"
+    authors: "Meng Wei, Fangli Qiao*, <strong>Yongqing Guo</strong>, Jia Deng, Zhenya Song, Qi Shu, Xiaodan Yang"
     conference_short: Clim. Dyn.
     conference: "Climate Dynamics, 53(11), 6715–6727, 2019."
 
   - title: "Subtropical Countercurrent Variations in Cooling Climates Induced by Freshwater Forcing over the Subarctic North Atlantic"
-    authors: "Chun Zhang, Xiaopei Lin*, Chun Zhang, <strong>Yongqing Guo</strong>"
+    authors: "Chunjie Zhang, Xiaopei Lin*, Cong Zhang, <strong>Yongqing Guo</strong>"
     conference_short: Clim. Dyn.
     conference: "Climate Dynamics, 52(5–6), 2799–2812, 2019."
 
   - title: "Decadal Variability of North Pacific Eastern Subtropical Mode Water"
-    authors: "<strong>Yongqing Guo</strong>, Xiaopei Lin*, Meng Wei, Chuanyu Liu, Gaocun Men"
+    authors: "<strong>Yongqing Guo</strong>, Xiaopei Lin*, Meng Wei, Cong Liu, Guang Men"
     conference_short: JGR-Oceans
     conference: "Journal of Geophysical Research: Oceans, 123(9), 6189–6206, 2018."
     notes: First Author
 
   - title: "Bottom Currents Observed in and around a Submarine Valley on the Continental Slope of the Northern South China Sea"
-    authors: "Lunyu Wu, Xuejun Xiong*, Xueming Li, Mingzhang Shi, <strong>Yongqing Guo</strong>, Liang Chen"
+    authors: "Lunyu Wu, Xuejun Xiong*, Xiaolong Li, Maochong Shi, <strong>Yongqing Guo</strong>, Liang Chen"
     conference_short: JOUC
     conference: "Journal of Ocean University of China, 15(6), 947–957, 2016."
+
+  - title: "Mathematical Modeling and Result Validation ofMooring Vertical Movement in the Course of Floating-up (in Chinese)"
+    authors: "<strong>Yongqing Guo</strong>, Xiaolong Li, Xuejun Xiong"
+    conference_short: CE
+    conference: "Coastal Engineering, 34(02), 11-23, 2015." 
+    notes: First Author
