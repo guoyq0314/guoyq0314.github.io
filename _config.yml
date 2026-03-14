@@ -1,0 +1,43 @@
+# Basic Information
+title: Yongqing Guo (郭永青)
+position: Associate Professor & Master's Supervisor
+affiliation: Zhejiang Ocean University
+email: guoyongqing (at) zjou.edu.cn
+
+# Search Engine Optimization (SEO)
+keywords: physical oceanography, ocean circulation, mesoscale eddies, ENSO, climate variability
+description: Personal homepage of Yongqing Guo, Associate Professor of Physical Oceanography at Zhejiang Ocean University.
+canonical: https://guoyq0314.github.io/
+
+# Links
+google_scholar: https://scholar.google.com/
+cv_link: assets/files/CV_Guo_Yongqing.pdf
+github_link: https://github.com/guoyq0314
+
+# Images
+avatar: ./assets/img/avatar.jpg
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnote
+enable_footnote: true
+
+# Auto Dark Mode
+auto_dark_mode: true
+
+# Font
+font: "Serif"
+
+# Use this project as a remote theme for GitHub Pages
+remote_theme: yaoyao-liu/minimal-light
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+
+# Exclude files from generated website
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
