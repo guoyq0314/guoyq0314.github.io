@@ -2,7 +2,7 @@
 title: Yongqing Guo (郭永青)
 position: Associate Professor & Master's Supervisor
 affiliation: Zhejiang Ocean University
-email: guoyongqing (at) zjou.edu.cn
+email: guoyongqing@zjou.edu.cn
 
 # Search Engine Optimization (SEO)
 keywords: physical oceanography, ocean circulation, mesoscale eddies, ENSO, climate variability
@@ -10,9 +10,9 @@ description: Personal homepage of Yongqing Guo, Associate Professor of Physical 
 canonical: https://guoyq0314.github.io/
 
 # Links
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/CV_Guo_Yongqing.pdf
-github_link: https://github.com/guoyq0314
+# google_scholar: https://scholar.google.com/
+# cv_link: assets/files/CV_Guo_Yongqing.pdf
+# github_link: https://github.com/guoyq0314
 
 # Images
 avatar: ./assets/img/avatar.jpg
