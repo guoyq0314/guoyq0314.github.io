@@ -41,3 +41,7 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENSE
+
+  - name: Prospective Students
+    link: /prospective
+
