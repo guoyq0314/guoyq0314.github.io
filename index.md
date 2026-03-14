@@ -16,13 +16,9 @@ I received my Ph.D. in Physical Oceanography from **Ocean University of China** 
 - **Mesoscale Eddies:** statistical characteristics and three-dimensional structures of eddies, eddy kinetic energy variability
 - **Ocean Heat Content:** variability and trend of ocean heat content, isopycnal ocean heat content
 - **Climate Variability:** Central Pacific El Niño
-# ## News
+## News
 
 #- **[Jan. 2026]** Promoted to **Associate Professor** at Zhejiang Ocean University.
-#- **[2026]** New paper accepted in *Advances in Marine Science*: statistical characteristics and 3D structure of mesoscale eddies south of Japan (with Wang X.).
-#- **[2026]** New grant awarded: **Zhejiang Natural Science Foundation** (Exploratory Project) — Central Pacific El Niño mechanisms using explainable AI (2026–2027).
-#- **[2025]** Two new papers published with Jia L.: Central Pacific El Niño frequency in [*Atmosphere*](https://doi.org/10.3390/atmos16060654) and EP/CP El Niño impacts on South China precipitation in *Dynamics of Atmospheres and #Oceans*.
-#- **[2024]** Paper published in [*Journal of Geophysical Research: Oceans*](https://doi.org/10.1029/2024JC020994): Interannual Variability of Isopycnal Ocean Heat Content in the Subtropical Northeast Pacific.
 
 {% include_relative _includes/publications.md %}
 
