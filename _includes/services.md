@@ -28,12 +28,6 @@
 - *Acta Oceanologica Sinica*
 - *Journal of Sea Research*
 
-## Prospective Students
-
-I welcome students with an undergraduate background in Meteorology, Physical Oceanography, or Mathematics. Ideal candidates are persons of integrity, intellectually curious, hardworking and dedicated. The ability to collaborate and get along well with others is also important. In particular, I place strong emphasis on English proficiency — both spoken and written — as it is essential for academic research and communication.
-
-If you are interested, please feel free to contact me at [guoyongqing@zjou.edu.cn](mailto:guoyongqing@zjou.edu.cn) with your CV and a brief statement of your research interests.
-
 ## Supervised Students
 
 **Graduated Students**
