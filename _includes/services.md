@@ -25,5 +25,6 @@
 
 **Reviewer for:**
 - *Journal of Geophysical Research: Oceans*
-- *Climate Dynamics*
-- *Ocean Dynamics*
+- *Journal of Marine Systems*
+- *Acta Oceanologica Sinica*
+- Journal of Sea Research
