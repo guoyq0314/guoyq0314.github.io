@@ -9,6 +9,3 @@
 - Zhejiang Natural Science Foundation – Exploratory Project (2026–2027)
 - Zhoushan Science and Technology Plan – ZJOU Special Project (2022–2025)
 - National Natural Science Foundation of China – Young Scientist Fund (2022–2024)
-
-**Academic Service**
-- Reviewer for *Journal of Geophysical Research: Oceans*, *Climate Dynamics*, *Ocean Dynamics*
