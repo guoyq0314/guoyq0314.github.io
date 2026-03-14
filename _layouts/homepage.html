@@ -2,4 +2,38 @@
 
 <h1 class="title-name">Yongqing Guo</h1>
 <h1 class="title-name-cn">郭永青</h1>
-...（其余内容见本地文件）
+
+{% if site.position %}<p>{{ site.position }}</p>{% endif %}
+{% if site.affiliation %}<p>{{ site.affiliation }}</p>{% endif %}
+{% if site.email %}<p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>{% endif %}
+
+<div id="icon-links">
+{% if site.google_scholar %}<a href="{{ site.google_scholar }}" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i></a>{% endif %}
+{% if site.cv_link %}<a href="{{ site.cv_link }}" target="_blank" rel="noopener"><i class="ai ai-cv"></i></a>{% endif %}
+{% if site.github_link %}<a href="{{ site.github_link }}" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>{% endif %}
+{% if site.linkedin %}<a href="{{ site.linkedin }}" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>{% endif %}
+{% if site.twitter %}<a href="{{ site.twitter }}" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>{% endif %}
+</div>
+
+<style>
+.title-name {
+  margin-bottom: 2px !important;
+}
+.title-name-cn {
+  font-size: 1.1rem !important;
+  font-weight: 400 !important;
+  color: #666 !important;
+  margin-top: 0 !important;
+  margin-bottom: 10px !important;
+  letter-spacing: 0.05em;
+}
+</style>
+
+{{ content }}
+{% if site.enable_footnote %}
+<footer>
+<p>Powered by Jekyll and Minimal Light theme.</p>
+</footer>
+{% endif %}
+
+{% if site.google_analytics %}{% include google-analytics.html %}{% endif %}
