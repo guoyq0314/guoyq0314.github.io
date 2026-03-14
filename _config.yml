@@ -1,0 +1,15 @@
+title: Yongqing Guo
+description: Academic Homepage
+
+theme: minima
+
+author:
+  name: Yongqing Guo
+  email: guoyongqing@zjou.edu.cn
+
+header_pages:
+  - research.md
+  - publications.md
+  - teaching.md
+  - projects.md
+  - cv.md
