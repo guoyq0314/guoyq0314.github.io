@@ -16,7 +16,6 @@
 
 **Undergraduate Courses**
 - *Ocean Circulation*
-- *Comprehensive Experiment of Marine Element Analysis*
 
 **Graduate Courses**
 - *Physical Oceanography*
