@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an Associate Professor of Physical Oceanography at Marine Science and Technology College, [Zhejiang Ocean University](https://www.zjou.edu.cn), Zhoushan, China. I also serve as a Master's supervisor.
+I am an Associate Professor of Physical Oceanography at [Marine Science and Technology College](https://msc.zjou.edu.cn/), [Zhejiang Ocean University](https://www.zjou.edu.cn)
 
 My research focuses on **large-scale ocean circulation**, **ocean mesoscale eddies**, and **climate change**, with a particular emphasis on the North Pacific, El Niño-Southern Oscillation, and Pacific Decadal Variability. I combine observational data, reanalysis products, and ocean model output to investigate how the ocean circulation varies on interannual to decadal time scales and what these variations may influence the climate. Recently, I have been studying artificial intelligence and working on applying related methods to El Niño forecasting. 
 
