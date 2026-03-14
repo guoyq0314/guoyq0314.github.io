@@ -5,7 +5,11 @@
 
 {% if site.position %}<p>{{ site.position }}</p>{% endif %}
 {% if site.affiliation %}<p>{{ site.affiliation }}</p>{% endif %}
-{% if site.email %}<p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>{% endif %}
+{% if site.email %}<p>
+  <a href="mailto:{{ site.email }}">{{ site.email }}</a> &nbsp;|&nbsp;
+  <a href="mailto:guoyq0314@gmail.com">guoyq0314@gmail.com</a>
+</p>{% endif %}
+
 
 <div id="icon-links">
 {% if site.google_scholar %}<a href="{{ site.google_scholar }}" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i></a>{% endif %}
