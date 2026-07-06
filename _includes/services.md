@@ -33,8 +33,9 @@
 **Graduated Students**
 - Lanyu Jia (贾岚钰)
 - Xinyu Wang (王欣玉)
+- Zhongyu Xu (徐忠宇)
 
 **Current Students**
-- Zhongyu Xu (徐忠宇)
 - Shuang Guo (郭爽)
 - Zhenyang Guo (郭振扬)
+- Nuo Chen (陈诺)
